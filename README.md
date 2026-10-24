@@ -16,12 +16,12 @@ FlowUp is an orbyte ecosystem AI-based that ensure accuracy and provide automati
 | University | Asia Pacific University |
 | Number Of Member | 4 |
 
-| Team Name | Role | Github Account |
-|-----------|------|----------------|
-| Abraham Darell Jeremiah | | @B04-Favela |
-| Aska Aidan | | @Vioclast
-| Carlos Lee | | @lee-carlos |
-| Jones Ruben Tobias | | @jones-ruben-tobias |
+| Team Name | Github Account |
+|-----------|----------------|
+| Abraham Darell Jeremiah | @B04-Favela |
+| Aska Aidan | @Vioclast
+| Carlos Lee | @lee-carlos |
+| Jones Ruben Tobias | @jones-ruben-tobias |
 
 # Links 
 | Resource | Link |
