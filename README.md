@@ -46,4 +46,16 @@ Cashier sales update stock automatically, while products, suppliers, finance and
 
 - Role-based control with human approval — Owner, cashier, supply, finance and analyst each see only what they need. The system flags data that needs review, a person verifies or corrects it, and every action is kept in an audit log.
 
-- 
+
+# How we use Replit
+- Development: FlowUp was built in Replit. We first wrote a structured specification (roles, data flow, formulas and reference test numbers), then used Replit Agent to generate the app and refined it in the Replit workspace. 
+- Hosting:FlowUp is published through Replit Deployments. The deployment is currently private, so access must be arranged for authorised reviewers before the demonstration.
+Live application: https://flowup-retail-orbyte-mvp.replit.app
+- Database: Synthetic store data is stored in the Replit-hosted database. (PostgreSQL database) 
+
+# Challenges
+- Scope
+- Inconsistency Number
+- Little Data for A New Store
+- Keeping AI honest
+
