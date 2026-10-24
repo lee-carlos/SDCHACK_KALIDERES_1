@@ -27,8 +27,7 @@ FlowUp is an orbyte ecosystem AI-based that ensure accuracy and provide automati
 | Resource | Link |
 |----------|------|
 | Github Repository | https://github.com/lee-carlos/SDCHACK_KALIDERES_1/ | 
-| Live Demo | https://flowup-retail-orbyte-mvp.replit.app |
-| Runpod Endpoint |  |
+| Live Demo | https://flowup-mvp.replit.app |
 | Slide Deck |  | 
 | Demo Video |  |
 
