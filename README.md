@@ -80,7 +80,7 @@ What we learned
 
 # Future Improvement
 
-[] QR Scanning for incoming stock
-[] Expand to another role
-[] AI demand forecasting and unusual-transaction detection
-[] Features for the supplier
+[ ] QR Scanning for incoming stock
+[ ] Expand to another role
+[ ] AI demand forecasting and unusual-transaction detection
+[ ] Features for the supplier
