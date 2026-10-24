@@ -21,7 +21,7 @@ FlowUp is an orbyte ecosystem AI-based that ensure accuracy and provide automati
 | Abraham Darell Jeremiah | | @B04-Favela |
 | Aska Aidan | | @Vioclast
 | Carlos Lee | | @lee-carlos |
-| Jones Ruben Tobias | @jones-ruben-tobias |
+| Jones Ruben Tobias | | @jones-ruben-tobias |
 
 # Links 
 | Resource | Link |
