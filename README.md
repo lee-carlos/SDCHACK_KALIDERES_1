@@ -50,18 +50,26 @@ As a solution, FlowUp is here! as an integrated, easy-to-use platform that conne
 
 # How we use Replit
 - Development:
+
   FlowUp was built in Replit. We first wrote a structured specification (roles, data flow, formulas and reference test numbers), then used Replit Agent to generate the app and refined it in the Replit workspace. 
 - Hosting:
+
   FlowUp is published through Replit Deployments. The deployment is currently private, so access must be arranged for authorised reviewers before the demonstration.
 Live application: https://flowup-retail-orbyte-mvp.replit.app
-- Database: Synthetic store data is stored in the Replit-hosted database. (PostgreSQL database) 
+
+- Database:
+
+  Synthetic store data is stored in the Replit-hosted database. (PostgreSQL database) 
 
 # Challenges
 - Scope
+  
   Our first design covered the whole store (cashier, warehouse, finance, owner). The brief asks for one clear use case, so we narrowed the MVP to one journey: goods received → compared with the purchase order → refund claim approved → stock and supplier score updated → reorder and discount recommendations. Other modules moved to the roadmap.
 - Inconsistency Number
+  
   Dashboards must agree with each other. We defined every formula once (stock reminder, EOQ, holding cost, supplier score) and checked the results against a reference dataset and a reconciliation check (opening stock + goods in − cost of goods sold = closing stock).
 
 - Keeping AI honest
+  
   We did not want a model inventing numbers. All numbers come from rules; AI only writes short explanations and supplier message drafts, with a template fallback if it is unavailable.
 
