@@ -69,3 +69,18 @@ Live application: https://flowup-retail-orbyte-mvp.replit.app
 - **Keeping AI honest** 
   We did not want a model inventing numbers. All numbers come from rules; AI only writes short explanations and supplier message drafts, with a template fallback if it is unavailable.
 
+# What We Learned
+What we learned
+
+- A detailed specification before prompting Replit Agent gave far better results than short prompts.
+
+- Human approval plus an audit log makes automation easier for SME owners to trust.
+
+- Rules should decide the numbers; AI should only explain them.
+
+# Future Improvement
+
+[] QR Scanning for incoming stock
+[] Expand to another role
+[] AI demand forecasting and unusual-transaction detection
+[] Features for the supplier
