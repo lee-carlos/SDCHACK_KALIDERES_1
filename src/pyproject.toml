@@ -1,0 +1,19 @@
+[project]
+name = "flowup-backend"
+version = "0.1.0"
+description = "FlowUp retail operations API — Python/FastAPI"
+requires-python = ">=3.13"
+dependencies = [
+    "fastapi>=0.162.0",
+    "httpx>=0.28.1",
+    "jsonschema>=4.26.0",
+    "openpyxl>=3.1.5",
+    "psycopg[binary,pool]>=3.3.6",
+    "python-docx>=1.2.0",
+    "pyyaml>=6.0.3",
+    "uvicorn>=0.54.0",
+    "xlsxwriter>=3.3.0",
+]
+
+[tool.uv]
+package = false
