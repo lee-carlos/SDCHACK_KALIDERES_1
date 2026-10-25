@@ -29,7 +29,7 @@ FlowUp is an orbyte ecosystem AI-based that ensure accuracy and provide automati
 | Github Repository | https://github.com/lee-carlos/SDCHACK_KALIDERES_1/ | 
 | Live Demo | https://flowup-mvp.replit.app |
 | Slide Deck |  | 
-| Demo Video |  |
+| Demo Video | https://youtu.be/IzlENAaMBFM  |
 
 # Overview
 Problem Micro and small grocery retailers in Malaysia run daily operations across WhatsApp, spreadsheets, paper notes and memory. Sales and stock are recorded in different places, owners often learn an item is out of stock only when a customer asks for it, and financial figures are hard to verify. Late reorders, expired goods and unchecked records quietly cost margin, and small teams cannot afford complex systems or formal training.
